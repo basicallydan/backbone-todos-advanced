@@ -170,8 +170,41 @@ body {
 	cursor:pointer;
 }
 
+@keyframes showNew {
+	0% {
+		color:green;
+	}
+
+	100% {
+		color:#000;
+	}
+}
+
+@-webkit-keyframes showNew {
+	0% {
+		color:green;
+	}
+
+	100% {
+		color:#000;
+	}
+}
+
+@-moz-keyframes showNew {
+	0% {
+		color:green;
+	}
+
+	100% {
+		color:#000;
+	}
+}
+
 #todo-list li .view .description.populated {
 	color:#000;
+	animation: showNew 1.5s;
+	-webkit-animation: showNew 1.5s;
+	-moz-animation: showNew 1.5s;
 }
 
 #todo-list li.editing-description .edit-desc, #todo-list li .view .description {
