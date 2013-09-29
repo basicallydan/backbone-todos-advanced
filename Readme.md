@@ -1,15 +1,17 @@
 Simple backbone coding test based on the [todo app](http://todomvc.com/).
 
+### [Click here to see it in action](http://basicallydan.github.io/backbone-todos-advanced/)
+
 ### Tasks
 
-* -Add a global namespace-
-* -Add a description field-
- * -Additional input element-
- * -Hidden normally-
- * -Unhide somehow-
- * -Make it look pretty!-
-* -Re-write using handlebars.js-
-* -Discuss why this might not work in IE-
+* ~~Add a global namespace~~
+* ~~Add a description field~~
+ * ~~Additional input element~~
+ * ~~Hidden normally~~
+ * ~~Unhide somehow~~
+ * ~~Make it look pretty!~~
+* ~~Re-write using handlebars.js~~
+* ~~Discuss why this might not work in IE~~
 
 ### Why might this not work in IE?
 
